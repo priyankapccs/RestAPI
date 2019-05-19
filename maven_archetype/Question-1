@@ -1,0 +1,46 @@
+1. Provide a set of tests to verify the application and identify any gaps
+
+#Create API:
+Scenario:  When Create API is request send with one or more Product ID, in this we must check below things:
+•	Response Code -200, when Package is created successfully
+•	Response Code when server is down, and package is not created
+•	Body of response i.e. it is containing the correct Name, Id, Name, Description whatever we have send are we getting back that, and it is having the 
+    information of Product.
+•	Check the Price of Product ID.
+•	Check that the character limit constrained is applied or not for all fields.
+•	Check what response we are getting when Mandatory fields are not send in request i.e Name or Description
+•	Check what error message is received when wrong Product ID is sent.
+•	Verify response of `404 BAD REQUEST`, when price send in request is different than price from Product API 
+•	If more than one product id is sent, verify that price shown is total price calculated.
+
+#Delete API:
+Scenario: When Delete API is request send with one Package ID, in this we must check below things:
+•	Response Code -200, when Package is deleted successfully.
+•	Response Code when server is down, and package is not deleted.
+•	Verify response of `404 NOT FOUND`, when ID of package is not found
+
+#View API:
+Scenario: When View API is request send with one Package ID, in this we must check below things:
+•	Response Code -200, when Package is retrieved successfully and verify the body of the response.
+•	Response Code when server is down, and package is not retrieved.
+•	Verify response of `404 NOT FOUND`, when ID of package is not found
+•	Verify Response Code and Message when Request is sent without Package ID.
+•	Verify the Currency in response when in request currency is specified which is other than USD and it should be using foreign exchange rate for
+    conversion rate.
+
+ #List -All API:
+Scenario: When List-All API is request send, in this we must check below things:
+•	Response Code -200, when all Package is retrieved successfully and verify the body of the response.
+•	Response Code when server is down, and package is not retrieved.
+
+#Update API:
+Scenario:  When Update API is request send with one or more Product ID, in this we must check below things:
+•	Response Code -200, when Package is updated successfully
+•	Response Code when server is down, and package is not created
+•	Body of response i.e. it got updated with the product id which was send in request.
+•	Check what response we are getting when Mandatory fields are not send in request i.e Name or Description
+•	Verify response of `404 BAD REQUEST`, when wrong or NULL Package ID is sent.
+•	If more than one product id is sent, verify that price shown is total price calculated in package created.
+
+
+

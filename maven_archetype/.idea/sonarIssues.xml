@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/AbstractPojo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/PropertyReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/RequestBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/config/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/pathValidator/PathValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/pojos/CreatePackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/utils/PropertyReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/utils/RequestBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/utils/ResponsesWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/utils/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/qa/verifiers/Verifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/properties/dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/MyStepdefs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/CreatePackageDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/definitions/CreatePackageDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/definitions/steps/CreatePackageDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/runner/TestRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/steps/CommonSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/qa/steps/CreatePackageSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/CreatePackage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/config/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/pojos/Articles/CreateArticle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/pojos/Articles/UpdateArticle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/pojos/range/CreateRange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/pojos/range/DeleteRange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/pojos/range/UpdateRange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/main/java/com/adidas/omp/utils/ResponsesWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/test/java/com/adidas/omp/automated/definitions/DeltaLoaderDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/test/java/com/adidas/omp/automated/steps/DeltaLoaderSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/test/resources/features/deltaLoader/DeltaLoader.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/workspace/omp-backend-tests/src/test/resources/features/query/articles/ListArticles.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

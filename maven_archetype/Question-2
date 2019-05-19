@@ -1,0 +1,15 @@
+2. Provide a complete bug list, ideally with accompanying test details/failing tests.
+
+#Bugs for Create API:
+
+1- There is no constrain on field length of field name. 
+2-In this API, if  we send ID(not product ID but Package ID) in body, it is still getting successful response but it should not.
+
+#Query:
+1- Why are we sending Name of ProductResources, when it is getting over-riden by the Product ID information.
+2- How the user will know the exact price of Product.
+
+#Bug for View Package:
+
+1- In requirement, it is given that ID of Package is mandatory, but when ID is missing and only Currency is send, it shows all record like LIST_ALL API.
+ 

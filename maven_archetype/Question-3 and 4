@@ -1,0 +1,13 @@
+3-What key features do you think the application lacks?
+Below is the Key Feature which application lack:
+1- User is not able to create a New Product but in requirement it is given that new product can be added but cannot be deleted.So there was no API for that
+2-Requirement was when Create API is send with Price that is different from Product API, 404 error should come but this is not happening.It is just 
+over-riding the request price with Product Price.
+3- IN View API requirement it is given that : Retrieve a package in the specified currency using the latest foreign exchange rate; default to USD if no currency is provided
+  But when currency is specified i.e in EUR, the response is still showing in USD
+  
+  
+4. What would you put in place to ensure this application can be used in an always-on,high-traffic environment?  How would you test for this?
+   By doing Load and Stress testing of the application.We can set a performance benchmark of application and if the traffic increase we can consider on 
+   upgrading the web hosting. And also we should recovery test that mean how well an application is able to recover from crashes, hardware failures and 
+   other similar problems. Recovery testing is the forced failure of the software in a variety of ways to verify that recovery is properly performed.
